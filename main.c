@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-	printf("이진호");
+	printf("dhidhi");
 	printf("junghyun");
 	return 0;
 }
